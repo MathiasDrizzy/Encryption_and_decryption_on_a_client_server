@@ -1,0 +1,3 @@
+Decrypted message with DES:  --xxxSeguridadInformaticaxxx-- 
+Decrypted message with 3DES: --xxxSeguridadInformaticaxxx-- 
+Decrypted message with AES:  --xxxSeguridadInformaticaxxx-- 
